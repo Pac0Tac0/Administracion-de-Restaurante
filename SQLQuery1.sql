@@ -9,7 +9,7 @@ apellidoPaterno varchar (50) not null,
 apellidoMaterno varchar (50),
 fechaRegistro date not null
 )
-
+--que rolllo viejo mañoso
 create table Cuenta(
 idCuenta numeric primary key,
 tipoCuenta varchar (50) not null,
