@@ -1,5 +1,6 @@
 create database Ejemplo
 use Ejemplo
+--Whatever yo
 
 create table Persona(
 id varchar(5) Primary Key,
